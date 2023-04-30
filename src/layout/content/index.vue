@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <RouterView></RouterView>
-  </div>
+    <div>
+        <h1>内容</h1>
+    </div>
 </template>
 
 <script setup lang="ts">
-console.log(import.meta.env.VITE_API);
 
 </script>
 
